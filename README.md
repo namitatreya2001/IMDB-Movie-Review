@@ -51,9 +51,9 @@ The project involves the following steps:
 ---
 
 ##Future Improvements-
-1.Replace the Simple RNN with more advanced models like LSTM or GRU for better accuracy.
-2.Deploy the model using Docker for containerization.
-3.Enhance the Streamlit UI to allow file uploads for batch predictions.
+       -Replace the Simple RNN with more advanced models like LSTM or GRU for better accuracy.
+       -Deploy the model using Docker for containerization.
+       -Enhance the Streamlit UI to allow file uploads for batch predictions.
 
 ##Live Project Link(Deployed On Streamlit)-https://imdb-movie-review-fzvngdz6wccep49kcgh2wk.streamlit.app/
 
