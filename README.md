@@ -50,7 +50,7 @@ The project involves the following steps:
 
 ---
 
-##Future Improvements
+##Future Improvements-
 1.Replace the Simple RNN with more advanced models like LSTM or GRU for better accuracy.
 2.Deploy the model using Docker for containerization.
 3.Enhance the Streamlit UI to allow file uploads for batch predictions.
